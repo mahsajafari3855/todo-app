@@ -1,0 +1,6 @@
+.header-img {
+  width: 100%;
+  height: 400px;
+  background: url("/public/images/bg-desktop-light.jpg");
+  background-size: cover;
+}
